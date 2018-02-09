@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1518179458 source:c:\users\xiaorui\documents\maze-c\maze\maze.cpp
+	<iostream>
+	"MazePerson.h"
+
+1518179527 c:\users\xiaorui\documents\maze-c\maze\mazeperson.h
+	<windows.h>
+	"MazeMap.h"
+
+1518167268 c:\users\xiaorui\documents\maze-c\maze\mazemap.h
+
+1518170498 source:c:\users\xiaorui\documents\maze-c\maze\mazemap.cpp
+	"MazeMap.h"
+	<iostream>
+
+1518179548 source:c:\users\xiaorui\documents\maze-c\maze\mazeperson.cpp
+	"MazePerson.h"
+	<iostream>
+
